@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  color: blueviolet;
+  font-size: 4em;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.container .image img {
+  max-width: 350px;
+  border: 3px solid cornsilk;
+  margin-bottom: 30px;
+}
